@@ -41,7 +41,6 @@ different reviewers have to evaluate each paper. Usually there are three
 reviewers(evaluators) for each paper but depending on the conference level there can be
 also 4 reviewers. The result of each reviewer is one of the followings qualifiers: strong
 accept, accept, weak accept, borderline paper, weak reject, reject and strong reject. The
-
 papers whose evaluation do not contains any level of reject are accepted by default. Also
 the papers do not containing any accept will be rejected. In case of papers having
 contradictory evaluations the chair/co-chairs request reviewers to discuss in order to get
