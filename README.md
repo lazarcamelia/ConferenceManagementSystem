@@ -12,16 +12,19 @@ proposals are known, the different sections of the conference are decided; each 
 paper is planned to be presented in a section. Each conference participant have to pay the
 registration. The conference participants which can be: session chairs, speakers or
 listeners.
+
 Once a steering committee decides to organize a conference edition, the information about
 the event is posted on the conference site. This information includes the name of the
 conference, the interval in which the event will took place, the "Call for papers", the
 deadlines, the Program Committee, the conference sections and program a. s. o.
+
 Mainly there are 3 distinct phases regarding the management of the information preceded
 by a preliminary phase, the PC members (including the conference chair or the conference
 co-chairs) uploads information about their name, affiliation, email address, their personal
 web-page, their username for the CMS and the password for accessing the information
 about the conference. The chair or one of co-chairs have the permission to change
 deadlines by postponing them to later data.
+
 In the first phase, each person interested to submit a proposal create its own user account
 fulfilling the information required (the name, affiliation, email address). Once the account
 is validated, the submitter logins, submit the abstract and fulfills the meta-information
@@ -31,6 +34,7 @@ full paper (usually a file in .pdf or .msword format). Uploading proposals can b
 before the deadline mentioned on the conference site and on the "Call for papers". It is
 possible to have two different deadlines: one for the abstract and another for the proposal.
 Until each deadline, users may upload new versions both for the abstract and the paper.
+
 In the second phase, PC members are required to bid the proposals. Each PC member has
 to do a brief analyze of abstracts or papers in order say if they are pleased to review some
 papers, or if they are could evaluate some papers, or if they refuse to evaluate other papers.
@@ -56,6 +60,7 @@ to improve their accepted papers taking into account reviewers recommendations. 
 members excepting the chair/co-chairs can submit proposals by logging as authors. In this
 case, they have not the right to see neither which are the reviewers of their paper nor the
 comments between reviewers.
+
 The third phase concerns the conference activities - mainly papers' presentation.
 Depending on the number of participants and of accepted papers, the conference is
 structured on different sections, some of them organized in parallel. Each section is
